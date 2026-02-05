@@ -1,5 +1,7 @@
 """HTTP client and API orchestrator for cause list lookup."""
 
+from __future__ import annotations
+
 import base64
 import logging
 
